@@ -1,0 +1,18 @@
+pyuic5 -x coupang_shop.ui -o viewer_layout.py
+
+https://www.coupang.com/np/search?rocketAll=false&searchId=42e9c7f1384747168c18af81835e75f8&q=%ED%95%B8%EB%93%9C%ED%8F%B0+%EA%B1%B0%EC%B9%98%EB%8C%80&filterType=rocket&page=1&sorter=scoreDesc&listSize=60
+
+scoreDesc 쿠팡 랭킹순
+saleCountDesc 판매량순
+salePriceAsc 낮은 가격순
+salePriceDesc 높은 가격순
+latestAsc 최신순
+
+
+
+rocket
+coupang_global
+rocket_luxury
+rocket_luxury%2Crocket%2Ccoupang_global
+
+https://www.coupang.com/np/search?rocketAll=true&q=%EC%83%A4%EB%84%AC
